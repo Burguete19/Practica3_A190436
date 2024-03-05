@@ -1,0 +1,7 @@
+C:\Servicio Web .asp.net\CalcularAreaWS\CalcularAreaWS\bin\CalcularAreaWS.dll.config
+C:\Servicio Web .asp.net\CalcularAreaWS\CalcularAreaWS\bin\CalcularAreaWS.dll
+C:\Servicio Web .asp.net\CalcularAreaWS\CalcularAreaWS\bin\CalcularAreaWS.pdb
+C:\Servicio Web .asp.net\CalcularAreaWS\CalcularAreaWS\obj\Release\CalcularAreaWS.csproj.AssemblyReference.cache
+C:\Servicio Web .asp.net\CalcularAreaWS\CalcularAreaWS\obj\Release\CalcularAreaWS.csproj.CoreCompileInputs.cache
+C:\Servicio Web .asp.net\CalcularAreaWS\CalcularAreaWS\obj\Release\CalcularAreaWS.dll
+C:\Servicio Web .asp.net\CalcularAreaWS\CalcularAreaWS\obj\Release\CalcularAreaWS.pdb
